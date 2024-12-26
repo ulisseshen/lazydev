@@ -1,0 +1,18 @@
+{
+    "author": "Florent Tassy",
+    "authorUri": "https://gitlab.com/florent_tassy",
+    "languages": [  "posts" ],
+    "languageLabels": {
+        "posts": "English"
+    },
+    "languageUris": {
+        "posts": "http://dbpedia.org/resource/English_language"
+    },
+    "title": {
+        "posts": "Polyglot Tech Blog"
+    },
+    "baseUrl": "http://localhost:8080",
+    "keywords": {
+        "posts": "polyglot, multilingual, blog, eleventy, 11ty, starter, template"
+    }
+}
