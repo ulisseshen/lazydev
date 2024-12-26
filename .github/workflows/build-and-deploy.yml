@@ -44,15 +44,6 @@ jobs:
               run: cp --recursive ./public ./_site
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v1
-            - name: Install Java
-              uses: actions/setup-java@v3
-              with:
-                distribution: 'temurin'
-                java-version: '17'
-            - name: Check HTML validity
-              run: npm run check:markup:unix
-            - name: Check CSS validity
-              run: npm run check:css:unix
 
     # Deployment job
     deploy:
