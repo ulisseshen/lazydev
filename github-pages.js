@@ -1,6 +1,6 @@
 const config = { 
-    baseUrl: "https://florent_tassy.gitlab.io/polyglot-tech-blog", 
-    pathPrefix: "polyglot-tech-blog" 
+    baseUrl: "https://ulisseshen.github.io/littleabit", 
+    pathPrefix: "littleabit" 
 };
 
 export default config;
