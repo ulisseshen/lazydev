@@ -12,6 +12,7 @@
         "multilingual",
         "polyglot"
     ],
+    "type": "module",
     "author": "Florent Tassy",
     "license": "Apache-2.0",
     "homepage": "https://polyglot-tech-blog.netlify.app",
